@@ -1,7 +1,4 @@
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
+package scr;
 
 public class Application {
     public static void app() {

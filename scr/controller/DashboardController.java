@@ -1,4 +1,4 @@
-package controller;
+package scr.controller;
 
 public class DashboardController {
 }

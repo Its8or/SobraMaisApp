@@ -1,4 +1,4 @@
-package util;
+package scr.util;
 
 public class Utils {
 }

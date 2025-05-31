@@ -1,4 +1,4 @@
-package models;
+package scr.models;
 
 public class Transaction {
 }
