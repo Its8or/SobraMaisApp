@@ -30,10 +30,21 @@ expenseControl/
 └── README.md
 ```
 
+## 🪛 Funções
+
+- [  ] Adicionar, remover ou editar dados de movimentação
+- [  ] Visualizar saldo atual e movimentações
+- [  ] Filtragem, ferramenta de busca e sistema de ordenação
+- [  ] Gráficos
+- [  ] Exportar em .SVG .PDF .XML ou .JSON **_(Extra)_**
+
+### 📄 Sobre as funções:
+
+Ao adicionar uma movimentação todos os campos, exceto descrição, não devem ser nulos.
+
 ## 🛠️ Tecnologias Usadas
 
 - Java 24
-- JavaFX and extensions
 
 ## 🤝 Contribuindo
 
