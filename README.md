@@ -1,45 +1,21 @@
 # SobraMais - Controle Financeiro
-Este projeto tem como objetivo ajudar o usuário a ter controle sobre a movimentação bancária(entradas e saídas).
-
-## 📁 Estrutura do Projeto
-
-```
-expenseControl/
-├── scr
-│   └── controller
-│       ├── CategoryController.java
-│       ├── DashboardController.java
-│       └── TransactionController.java
-│   ├── models
-│       ├── Category.java
-│       ├── Dashboard.java
-│       ├── Transaction.java
-│       └── TransactionType.java
-│   ├── otherFx
-│   ├── utils
-│       └── ChartHelper.java
-│       └── Utils.java
-│   ├── view
-│       └── CategoryView.java
-│       └── DashboardView.java
-│       └── TransactionView.java
-│   ├── Application.md
-│   ├── Main.md
-├── .gitignore
-└── README.md
-```
+Este projeto tem como objetivo ajudar o usuário a ter controle sobre suas finanças.
+Não gosto de ter de usar planilhas, assim, para ter controle sobre meu dinheiro decidi fazer meu próprio app.
 
 ## 🪛 Funções
+
+Algumas das funções que o app irá possuir serão:
 
 - [  ] Adicionar, remover ou editar dados de movimentação
 - [  ] Visualizar saldo atual e movimentações
 - [  ] Filtragem, ferramenta de busca e sistema de ordenação
-- [  ] Gráficos
-- [  ] Exportar em .SVG .PDF .XML ou .JSON **_(Extra)_**
+- [  ] Visualização em Gráficos
+- [  ] **_(Extra)_** Armazenamento em núvem 
+- [  ] **_(Extra)_** Exportar em .SVG .PDF .XML ou .JSON 
 
-### 📄 Sobre as funções:
-
-Ao adicionar uma movimentação todos os campos, exceto descrição, não devem ser nulos.
+#### 📄 Notas:
+* Ao adicionar uma movimentação todos os campos, exceto descrição, **devem ser preenchidos**.
+* O aplicativo inicialmente salvará os dados localmente na máquina, o espaço para armazenamento será limitado pelas informações inseridas. 
 
 ## 🛠️ Tecnologias Usadas
 
@@ -47,7 +23,8 @@ Ao adicionar uma movimentação todos os campos, exceto descrição, não devem 
 
 ## 🤝 Contribuindo
 
-Contribuições são super bem-vindas!
+Ajuda sempre é bem vinda! Você é livre para contribuir com o projeto.
+Para tal:
 
 1. Faça um fork do projeto
 2. Crie sua branch (`git checkout -b minha-feature`)
