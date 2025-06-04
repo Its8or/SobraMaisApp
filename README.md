@@ -1,5 +1,4 @@
-# Expense Control
-
+# SobraMais - Controle Financeiro
 Este projeto tem como objetivo ajudar o usuário a ter controle sobre a movimentação bancária(entradas e saídas).
 
 ## 📁 Estrutura do Projeto
