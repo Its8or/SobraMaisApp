@@ -1,0 +1,47 @@
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.xml
+*.fxml
+*.cmd
+
+# virtual machine crash logs
+hs_err_pid*
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# Build tools
+/target/
+/build/
+/out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
