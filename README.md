@@ -35,4 +35,5 @@ Para tal:
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://mit-license.org) para mais detalhes.
+Esse projeto está sob a licença Apache 2
+0. Veja o arquivo [LICENSE](https://www.apache.org/licenses/LICENSE-2.0) para mais detalhes.
